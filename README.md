@@ -1,2 +1,2 @@
-# SQL-PROJECTS
-data analyst SQL portfolio projects
+# SQL-PROJECT
+data analyst SQL portfolio project - pizza hut sales
