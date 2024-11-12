@@ -1,7 +1,7 @@
 ## SQL-PROJECT 1
 data analyst SQL portfolio project - Pizza Hut sales
 
-https://github.com/22TAUSIF/SQL-PROJECT-1/blob/8a282b49a76de8b52f154096ec9b8550eb3c8578/Pizza%20Hut.jpeg
+![image alt](https://github.com/22TAUSIF/SQL-PROJECT-1/blob/8a282b49a76de8b52f154096ec9b8550eb3c8578/Pizza%20Hut.jpeg)
 
 🌟 **Data-Driven Insights with MySQL** 🌟  
 
